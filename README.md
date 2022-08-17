@@ -1,2 +1,2 @@
 # ARWaveletCNN
-Adversarialy Robust WaveletCNN Code
+Adversarialy Robust WaveletCNN Code for our paper under review.
