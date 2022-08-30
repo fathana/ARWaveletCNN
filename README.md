@@ -4,7 +4,7 @@ Adversarialy Robust WaveletCNN Code for our paper under review.
 The architecture of our ARWaveletCNN model is as follows:
 ![](ARWaveletCNN.png)
 
-This repository contains the code for our proposed ARWaveletCNN model, as well as DenseNet121 best performing model and their respective evaluations. Code also contains code to reproduce all of our experiments in the paper.
+This repository contains the code for our proposed ARWaveletCNN model, as well as DenseNet121 best performing model, and their respective evaluations. Files also contain code to reproduce all of our experiments in the paper.
 For the sake of analysis and to fully understand how the ARWaveletCNN model works, we include the following visualizations:
   - A visualization of the Harmonic and percussive parts of several different audio files (including augmented audio samples using https://github.com/fathana/spoofAugment)
   - A visualization of several wavelet transforms (e.g. Haar, db2, dmey, etc.) comprising the different channels
