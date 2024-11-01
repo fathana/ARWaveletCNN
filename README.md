@@ -1,5 +1,5 @@
 # ARWaveletCNN
-Adversarialy Robust WaveletCNN Code for our paper under review.
+Adversarialy Robust WaveletCNN Code for our paper.
 
 The architecture of our ARWaveletCNN model is as follows:
 ![](ARWaveletCNN.png)
